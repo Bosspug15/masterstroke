@@ -13,6 +13,8 @@ public class EnemyBehavior : MonoBehaviour
     [SerializeField]
     bool facingLeft = true;
 
+
+
     private bool rangedEnemy = false;
 
     private static int numSightLines = 50;
